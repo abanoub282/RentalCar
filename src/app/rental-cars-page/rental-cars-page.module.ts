@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { CountdownModule } from 'ngx-countdown';
 
 import { RentalCarsPageRoutingModule } from './rental-cars-page-routing.module';
 
@@ -8,7 +9,8 @@ import { RentalCarsPageRoutingModule } from './rental-cars-page-routing.module';
   declarations: [],
   imports: [
     CommonModule,
-    RentalCarsPageRoutingModule
+    RentalCarsPageRoutingModule,
+    CountdownModule
   ]
 })
 export class RentalCarsPageModule { }
