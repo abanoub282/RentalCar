@@ -293,6 +293,7 @@
     }
 
     .car-type > a {
+        font-size: 13px;
         margin-top: 4px;
         margin-left: 6px;
         float: right;
