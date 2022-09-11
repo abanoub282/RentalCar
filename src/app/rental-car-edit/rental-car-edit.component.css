@@ -1,0 +1,78 @@
+.countdown__value {
+    color: #0E94F7;
+}
+
+.section {
+    background-color: #ececec;
+}
+
+.countdown {
+    background-color: #fff;
+}
+
+.countdown__icon {
+        background: url(https://cdn2.rcstatic.com/images/site_graphics/newsite/hourglass.png) 0 0 no-repeat;
+        background-image: url(https://cdn2.rcstatic.com/images/site_graphics/newsite/hourglass.svg), none;
+        top: 33px;
+        left: 80px;
+        right: 0;
+} 
+
+.booking-section {
+    border-left: 1px solid #ddd;
+}
+
+.pencil-edit-icon {
+    vertical-align: middle;
+    width: 13px;
+    height: 13px;
+    background: url(https://cdn2.rcstatic.com/images/site_graphics/newsite/checkout/edit-pencil.png) 0 0 no-repeat;
+    background-image: url(https://cdn2.rcstatic.com/images/site_graphics/newsite/checkout/edit-pencil.svg), none;
+}
+
+.txt-blue-6 {
+    float: right;
+}
+
+    .booking-section .info_b__date strong {
+        color: #0f6193;
+    }
+
+    .info_b {
+        border-bottom: 1px solid #ddd;
+    }
+
+    .a11y-normalise-button {
+        background: 0 0;
+        border: 0;
+        padding: 0;
+        line-height: inherit;
+        text-align: inherit;
+        text-transform: inherit;
+    }
+
+    .extras-drop-link {
+        border: 1px solid #106092;
+        background-color: #E7EFF4;
+        color: #106092;
+    }
+
+    .change-dates-modal, .booking-details {
+        cursor: pointer;
+    }
+ 
+    .love-list__icon--fuel {
+        background-image: url(https://cdn2.rcstatic.com/images/site_graphics/newsite/tone/fuel.png);
+        background-image: url(https://cdn2.rcstatic.com/images/site_graphics/newsite/tone/fuel.svg), none;
+    }
+
+    .love-list__icon {
+        height: 30px;
+        background-repeat: no-repeat;
+        background-position: 50% 0%;
+    }
+
+    
+    .change-extras-link {
+        right: 0;
+    }
