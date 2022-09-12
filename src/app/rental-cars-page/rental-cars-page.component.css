@@ -1,4 +1,4 @@
-    .section {
+  .section {
         background-color: #ececec;
     }
 
@@ -11,12 +11,17 @@
     }
 
     .countdown__icon {
-        top: 0px;
-        left: 0px;
         height: 38px;
         background: url(https://cdn2.rcstatic.com/images/site_graphics/newsite/hourglass.png) 0 0 no-repeat;
         background-image: url(https://cdn2.rcstatic.com/images/site_graphics/newsite/hourglass.svg), none;
     }
+
+    /* .countdown__message::before {
+        font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f007";
+        font-weight: 900; content: "prefix";
+        content: linear-gradient(#e66465, #9198e5);
+        content: open-quote;
+    } */
 
     .countdown__section--highlight {
         background-color: #f3faff;
